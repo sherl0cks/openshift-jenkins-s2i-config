@@ -43,7 +43,7 @@ docker-workflow: 1.13
 durable-task: 1.14
 email-ext: 2.60
 favorite: 2.3.0
-gerrit-trigger: 2.26.0
+gerrit-trigger: 2.26.1
 ghprb: 1.39.0
 git-client: 2.5.0
 github-api: 1.89
